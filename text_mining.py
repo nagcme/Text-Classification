@@ -1,8 +1,4 @@
 '''
-Module : 7CCSMDM1 DATA MINING
-Coursework 2 : Activity 1 : Text Mining
-Student ID : 20112906
-Candidate ID : AB01910
 References: https://pythonspot.com/nltk-stop-words/
             https://docs.python.org/3/library/re.html
             https://scikit-learn.org/stable/modules/generated/
